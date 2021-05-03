@@ -8,12 +8,7 @@ body{
     font-family: 'Sue Ellen Francisco', cursive;
     
 }
-#map{
-    position: relative;
-    border: 1px solid olive;
-    height: 600px;
-    width: 1500px;
-}
+
 #player{
     position: absolute;
     background: url('game.png') no-repeat;
